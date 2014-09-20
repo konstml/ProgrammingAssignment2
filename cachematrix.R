@@ -56,7 +56,7 @@ cacheSolve <- function(x, ...) {
     },
     error= function(cond) {
       #  message(paste("Your matrix:", as.character(head(data))))
-      ?message("Failed to invert supplied matrix; original error message:")
+      message("Failed to invert supplied matrix; original error message:")
       message(cond)                    
       return(NA)  # Choose a return value in case of error
     } 
