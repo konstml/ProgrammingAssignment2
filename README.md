@@ -102,4 +102,7 @@ In order to complete this assignment, you must do the following:
 
 ### Grading
 
-This assignment will be graded via peer assessment.
+ So how does one push changes from the local version of the file on the hard drive to the GitHub?
+ Other than copying and pasting the content of the clipboard in the Browser window when the 
+ GitHub version of the file is open in the "Edit" mode
+ If not in the GitHub GUI then perhaps via command line?
